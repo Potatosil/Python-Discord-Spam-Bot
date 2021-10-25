@@ -18,7 +18,7 @@ def spam (msg, maxMsg):
 			sleep(5)
 				
 
-spam("i am a spambot made by potato", 100)
+spam("i am a spambot made by potato, sub to potato", 100)
 
 sleep(2)
 
